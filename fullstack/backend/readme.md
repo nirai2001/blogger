@@ -33,5 +33,5 @@ Create a `.env` file in the root directory:
 
 ```
 PORT=5000
-DATABASE_URL=<your-database-url>
+MONGODB_URI=<your-database-url> (eg: mongodb://localhost:27017/blog_db)
 ```
