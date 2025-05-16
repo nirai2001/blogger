@@ -39,7 +39,7 @@ fullstack/
 
 1. Navigate to the frontend directory:
     ```bash
-    cd frontend
+    cd blog-app
     ```
 2. Install dependencies:
     ```bash
